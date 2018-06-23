@@ -24,6 +24,7 @@ setup(
     extras_require={
         'test': [
             'click',
+            'click-spinner',
             'pytest',
             'six',
         ]
